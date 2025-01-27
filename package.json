@@ -259,7 +259,7 @@
   },
   "homepage": "https://github.com/reactstrap/reactstrap#readme",
   "dependencies": {
-    "@babel/runtime": "^7.12.5",
+    "@babel/runtime": "^7.26.0",
     "@popperjs/core": "^2.6.0",
     "classnames": "^2.2.3",
     "prop-types": "^15.5.8",
